@@ -1,0 +1,6 @@
+rootProject.name = "tm"
+
+include ':module'
+include ':module:entity'
+include ':module:service'
+include ':module:web'
